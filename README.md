@@ -9,7 +9,7 @@
 - Git & GitHub
 
 ## Tutorial
-To SignIn on App folow the steps:
+To Sign In on App folow the steps:
 - just write any Email in "Email" input form;
 - Make the same to Password on the "Password" input form;
 - Later click on "LogIn".
