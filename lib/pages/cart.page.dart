@@ -1,7 +1,20 @@
 import 'package:app_layout/pages/home.page.dart';
 import 'package:flutter/material.dart';
 
-class CartPage extends StatelessWidget {
+class CartPage extends StatefulWidget {
+  @override
+  State<CartPage> createState() => _CartPageState();
+}
+
+class _CartPageState extends State<CartPage> {
+  int _counter = 0;
+
+  void _incrementCounter() {
+    setState(() {
+      _counter++;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -138,7 +151,9 @@ Widget productItem(context) {
                       width: 40,
                       alignment: Alignment.center,
                       child: FloatingActionButton(
-                        child: Text("-"),
+                        child: Text(
+                          "-",
+                        ),
                         backgroundColor: Colors.black,
                         foregroundColor: Colors.white,
                         onPressed: () => {},
