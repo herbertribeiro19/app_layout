@@ -1,0 +1,10 @@
+Para logar no aplicativo, siga os passos:
+1 - No campo "Email", informe seu nome ou qualquer email que preferir (ainda não está ativada a opção de cadastro);
+2 - Faça o mesmo no campo de "Senha", informe a senha que preferir;
+3 - Depois de preenchido os dois campos, basta clicar em LogIn e aproveitar o aplicativo;
+
+--------------------------------------------------------------------------------------------------------------------
+To Sign In on App folow the steps:
+1 - just write any Email in "Email" input form;
+2 - Make the same to Password on the "Password" input form;
+3 - Later click on "LogIn".
